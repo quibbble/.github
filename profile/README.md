@@ -9,4 +9,5 @@ If you are looking to contribute to the Quibbble ecosystem then you are in the r
 - Carcassonne - [backend](https://github.com/quibbble/go-carcasssonne) / [frontend](https://github.com/quibbble/carcasssonne)
 - Codenames - [backend](https://github.com/quibbble/go-codenames) / frontend WIP
 - Connect4 - [backend](https://github.com/quibbble/go-connect4) / [frontend](https://github.com/quibbble/connect4)
+- TicTacToe - [backend](https://github.com/quibbble/go-boardgame/tree/main/examples/tictactoe) / frontend WIP
 - Tsuro - [backend](https://github.com/quibbble/go-tsuro) / [frontend](https://github.com/quibbble/tsuro)
