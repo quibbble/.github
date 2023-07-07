@@ -6,8 +6,9 @@ If you are looking to contribute to the Quibbble ecosystem then you are in the r
 - 💬 [discord](https://discord.gg/VKvjutuhUp) provides a place to talk to fellow Quibbblers and to ask the developer(s) any questions you may have.
 
 ## Currently Implemented Games
-- Carcassonne - [backend](https://github.com/quibbble/go-carcasssonne) / [frontend](https://github.com/quibbble/carcasssonne)
+- Carcassonne - [backend](https://github.com/quibbble/go-carcassonne) / [frontend](https://github.com/quibbble/carcassonne)
 - Codenames - [backend](https://github.com/quibbble/go-codenames) / frontend WIP
 - Connect4 - [backend](https://github.com/quibbble/go-connect4) / [frontend](https://github.com/quibbble/connect4)
+- Statego - [backend](https://github.com/quibbble/go-stratego) / frontend WIP
 - TicTacToe - [backend](https://github.com/quibbble/go-boardgame/tree/main/examples/tictactoe) / frontend WIP
 - Tsuro - [backend](https://github.com/quibbble/go-tsuro) / [frontend](https://github.com/quibbble/tsuro)
