@@ -13,5 +13,5 @@ If you are looking to contribute to the Quibbble ecosystem then you are in the r
 - ✅ Connect4 - [backend](https://github.com/quibbble/go-connect4) / [frontend](https://github.com/quibbble/connect4)
 - ✅ Indigo - [backend](https://github.com/quibbble/go-indigo) / [frontend](https://github.com/quibbble/indigo)
 - ✅ Stratego - [backend](https://github.com/quibbble/go-stratego) / [frontend](https://github.com/quibbble/stratego)
-- ✅ TicTacToe - [backend](https://github.com/quibbble/go-boardgame/tree/main/examples/tictactoe) / frontend WIP
+- ✅ TicTacToe - [backend](https://github.com/quibbble/go-boardgame/tree/main/examples/tictactoe) / [frontend](https://github.com/quibbble/tictactoe)
 - ✅ Tsuro - [backend](https://github.com/quibbble/go-tsuro) / [frontend](https://github.com/quibbble/tsuro)
