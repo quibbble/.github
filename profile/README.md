@@ -11,7 +11,6 @@ If you are looking to contribute to the Quibbble ecosystem then you are in the r
 [BGN](https://github.com/quibbble/go-boardgame/tree/main/pkg/bgn#board-game-notation---bgn) Supported: ✅ / ❌
 
 - ✅ Carcassonne - [backend](https://github.com/quibbble/go-carcassonne) / [frontend](https://github.com/quibbble/carcassonne)
-- ✅ Codenames - [backend](https://github.com/quibbble/go-codenames) / frontend WIP
 - ✅ Connect4 - [backend](https://github.com/quibbble/go-connect4) / [frontend](https://github.com/quibbble/connect4)
 - ✅ Indigo - [backend](https://github.com/quibbble/go-indigo) / [frontend](https://github.com/quibbble/indigo)
 - ✅ Stratego - [backend](https://github.com/quibbble/go-stratego) / [frontend](https://github.com/quibbble/stratego)
